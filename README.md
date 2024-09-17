@@ -1,6 +1,6 @@
 # Desafio Relatório de Vendas com Segmentadores e Botões no Power BI
 
-O desafio tem como propósito colocar em prática a utilização de vizuais personalizados, como o Chiclet Slicer e o Radar Chart, assim como a utilização de botões para diferentes ações, como alterar a forma como alguns dados são representados ou alternar entre as páginas do relatório.
+O desafio tem como propósito colocar em prática a utilização de visuais personalizados, como o Chiclet Slicer e o Radar Chart, assim como a utilização de botões para diferentes ações, como alterar a forma como alguns dados são representados ou alternar entre as páginas do relatório.
 
 ## Conteúdo da Primeira Página
 
